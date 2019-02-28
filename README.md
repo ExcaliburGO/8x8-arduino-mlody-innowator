@@ -11,6 +11,7 @@ Aby wysłać tekst, wpisz go w pole tekstowe i kliknij przycisk "WYŚLIJ"
 
 ## Pamięć
 Aplikacja oferuje 3 sloty zapisu tekstu.
+
 Tekst jest zapisywany trwale w pamięci urządzenia (nie zniknie po zamknięciu aplikacji).
 Aby zachować tekst, wpisz go w pole tekstowe i kliknij "USTAW M1"/"USTAW M2"/"USTAW M3".
 Aby przywołać zachowany wcześniej tekst, kliknij "M1"/"M2"/"M3"
