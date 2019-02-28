@@ -17,3 +17,16 @@ Tekst jest zapisywany trwale w pamięci urządzenia (nie zniknie po zamknięciu 
 Aby zachować tekst, wpisz go w pole tekstowe i kliknij "USTAW M1"/"USTAW M2"/"USTAW M3".
 
 Aby przywołać zachowany wcześniej tekst, kliknij "M1"/"M2"/"M3"
+
+## Inne komendy sterujące
+"WOLNIEJ" - zmniejsza prędkość przewijania tekstu na wyświetlaczu
+
+"SZYBCIEJ" - zwiększa prędkość przewijania tekstu na wyświetlaczu
+
+"CIEMNIEJ" - zmniejsza jasność wyświetlacza
+
+"JAŚNIEJ" - zwiększa jasność wyświetlacza
+
+"CZYŚĆ" - czyści wyświetlacz (nic się nie wyświetla)
+
+"PAUZA" - pauzuje/odpauzowuje przewijanie tekstu
