@@ -56,6 +56,7 @@ Następnie należy uruchomić ponownie Arduino IDE.
 # Użytkowanie
 Wyświetlacza można używać w tych pozycjach:
 
-![pionowo](img/pionowo.jpg)
-
-![poziomo](img/poziomo.jpg)
+<p align="center">
+  <img src="img/pionowo.jpg">
+  <img src="img/poziomo.jpg">
+</p>
