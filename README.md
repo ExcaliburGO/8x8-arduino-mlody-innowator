@@ -52,3 +52,8 @@ Do jego kompikacji wymagane jest środowisko Arduino IDE oraz dwie zewnętrzne b
 
 Zostały one dołączone do projektu. Oba foldery z bibliotekami należy umieścić w folderze **Dokumenty/Arduino/libraries/**.
 Następnie należy uruchomić ponownie Arduino IDE.
+
+# Użytkowanie
+Wyświetlacza można używać w tych pozycjach:
+!(img/pionowo.png)
+![alt text](img/poziomo.png)
