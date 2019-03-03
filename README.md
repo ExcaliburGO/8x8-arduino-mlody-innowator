@@ -4,6 +4,10 @@
 
 # Instrukcja użytkowania aplikacji na Androida
 
+<p align="center">
+  <img src="img/aplikacja.jpg">
+</p>
+
 ## Instalacja aplikacji
  - Pobierz plik "Matrix8x8.apk"
  - Uruchom plik na urządzeniu z systemem Android
